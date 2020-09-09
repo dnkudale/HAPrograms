@@ -1,0 +1,21 @@
+Download Git : https://git-scm.com/download/
+
+Run dotnet Command OR Dotnet Application  : DotNet Core SDK is Need to be Installed
+
+Create Python App on Azure App Service
+https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash
+
+Create Java App on Azure App Service
+https://docs.microsoft.com/en-us/azure/app-service/quickstart-java?tabs=javase&pivots=platform-linux
+
+
+
+GIT Process for Setting Repo from Remote (e.g. Github, bitbucket, etc)
+	Step 1) git remote -v
+	Step 2) git remote add origin (SSH or HTTPS Link., e.g. git@github.com:dnkudale/HAPrograms.git)
+	Step 3) git status
+	Step 4) git pull
+	Step 5) ls
+	Step 6) git add .
+	Step 7) git commit -m "Message"
+	Step 8) git push --set-upstream origin master
